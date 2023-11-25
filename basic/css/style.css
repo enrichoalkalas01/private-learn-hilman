@@ -1,0 +1,21 @@
+@import './index.css';
+/* External CSS */
+
+div p {
+    color: red;
+}
+
+a {
+    color: black;
+    text-decoration: unset;
+}
+
+span {
+    background: yellow 100% center;
+}
+
+@media screen and ( max-width: 768px ) {
+    a {
+        color: bisque;
+    }
+}

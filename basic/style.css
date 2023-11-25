@@ -1,0 +1,11 @@
+.hero {
+    height: 500px;
+}
+
+.hero .wrapper-hero {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
